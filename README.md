@@ -1,2 +1,2 @@
 # Tic-Tac-Toe!
-A simple game I made using Python in Jupyter Notebooks to practice Python.
+A simple game I made using Python in Jupyter Notebooks.
