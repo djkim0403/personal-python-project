@@ -1,2 +1,2 @@
-# personal-python-project
-Dong Jin Kim's personal python project
+# Tic-Tac-Toe!
+A simple game I made using Python in Jupyter Notebooks to practice Python.
